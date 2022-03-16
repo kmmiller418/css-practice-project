@@ -57,8 +57,11 @@ nav h3 {
 }
 
 .img-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-top: 50px;
-    padding: 10em 12em;
+    width: 40%;
     background-color: #6d747e;
     color: #F9FAF8;
 }
